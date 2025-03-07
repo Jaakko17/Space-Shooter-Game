@@ -36,7 +36,7 @@ A 2D space shooter game built with Pygame! Navigate through waves of enemies, co
 - `explosion.wav` by TinyWorlds (CC0 1.0, https://opengameart.org/content/explosion-sound)
 - `InfUFO_1.png` by The_Scientist (CC0 1.0, https://opengameart.org/content/alien-boss-set)
 - `explosion.png` by Sogomn (CC0 1.0, https://opengameart.org/content/explosion-0)
-- `Bossmusic.wav` by SubspaceAudio (Juhani Junkala) (CC0 1.0, https://opengameart.org/content/epic-boss-battle-seamlessly-looping)
+- `Bossmusic.wav` by SubspaceAudio (Juhani Junkala) (CC0 1.0,[ https://opengameart.org/content/epic-boss-battle-seamlessly-looping](https://opengameart.org/content/boss-battle-music))
 
 ## License
 - My original code is released under the [MIT License](LICENSE).
