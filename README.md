@@ -30,6 +30,13 @@ A 2D space shooter game built with Pygame! Navigate through waves of enemies, co
 - **Developed by**: Jaakko17  
 - **Assets from Kenney Vleugels (www.kenney.nl)**:
 - `ufoRed.png`, `ufoGreen.png`, `sfx_laser1.ogg`, `playerShip2_blue.png`, `pill_yellow.png`, `laserBlue01.png` (CC0 1.0, https://www.kenney.nl/assets/space-shooter-redux)
+- **Assets from OpenGameArt.org**:
+- `tnt.png` by Cookie (CC BY 3.0, https://opengameart.org/content/tnt-barrel)
+- `bg_02_h.png` by le_professeur_stagiaire (CC0 1.0, https://opengameart.org/content/space-star-background)
 
 ## License
-This project is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute it, but please give credit to the original author (Jaakko Saarinen).
+- My original code is released under the [MIT License](LICENSE).
+- Assets from Kenney Vleugels and OpenGameArt.org are used under their respective licenses (e.g., CC BY 3.0, CC0 1.0) as credited above.
+
+## Contact
+For questions or feedback, feel free to open an [issue](https://github.com/Jaakko17/Space-Shooter-Game/issues) or contact me via GitHub.
