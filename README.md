@@ -29,3 +29,6 @@ A 2D space shooter game built with Pygame! Navigate through waves of enemies, co
 ## Credits
 - **Developed by**: Jaakko17  
 - **Assets**: Included in the repository (custom images and sounds).
+
+## License
+This project is released under the [MIT License](LICENSE). Feel free to use, modify, and distribute it, but please give credit to the original author (Jaakko17).
